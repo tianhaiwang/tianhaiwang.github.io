@@ -1,5 +1,6 @@
 # 📝 Publications
 ## 🚜 Robot Navigation
+
 - **Applications of machine vision in agricultural robot navigation: A review**
 
     **Tianhai Wang**, Bin Chen, Zhenqian Zhang, Han Li, Man Zhang\*
@@ -13,6 +14,7 @@
     Nongye Jixie Xuebao/Transactions of the Chinese Society of Agricultural Machinery 2022 \| [[Available online](http://www.nyjxxb.net/index.php/journal/article/view/1489)]
 
 ## 🛩️ UAV Remote Sensing
+
 - **Applications of UAS in Crop Biomass Monitoring: A Review**
 
     **Tianhai Wang**, Yadong Liu, Minghui Wang, Qing Fan, Hongkun Tian, Xi Qiao\*, Yanzhou Li\*

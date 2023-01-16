@@ -1,5 +1,6 @@
 # 🛠️ Recent Projects
 ## Object detection and tracking based on multi-sensor fusion
+
 - Supervisor: [Man Zhang](https://www.scopus.com/authid/detail.uri?authorId=56294527200), [Han Li](https://www.scopus.com/authid/detail.uri?authorId=57162704700)<br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-sensor<br />Platform</div><img src='images/multi-sensor-platform.png' alt="sym" width="100%"></div></div>
@@ -15,5 +16,7 @@
 I'm work on object detection and tracking based on multi-sensor fusion in unstructured farmland environment. Especially, I'm dedicated to realizing the detection of unknown objects in open environment via zero-shot learning, open set recognition, etc.
 
 This work is being supported by the National Key Research and Development Program of China:
+
 - Common key technology and system research and development of corn unmanned operation (Grant No. 2022YFD2001601, ¥ 4.0 million)
+
 - Research and development of cloud management and control platform for rice full unmanned farm production (Grant No. 2021YFD2000604, ¥ 6.0 million)
