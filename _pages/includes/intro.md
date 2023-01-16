@@ -6,4 +6,3 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 **Announcement:** I'm looking for a challenging and satisfying Ph.D. position (Fall 2024) that will commensurate with educational background.
-
