@@ -1,4 +1,4 @@
-# 🛠️ Recent Projects
+# 🛠️ Projects
 ## Object detection and tracking based on multi-sensor fusion
 
 - Supervisor: [Man Zhang](https://www.scopus.com/authid/detail.uri?authorId=56294527200), [Han Li](https://www.scopus.com/authid/detail.uri?authorId=57162704700)<br />
