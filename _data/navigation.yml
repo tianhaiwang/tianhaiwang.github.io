@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Projects"
-    url: "/#-projects"
+  - title: "Recent Projects"
+    url: "/#-recent-projects"
 
   - title: "Education"
     url: "/#-education"
