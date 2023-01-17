@@ -14,10 +14,14 @@ redirect_from:
 <span class='anchor' id='-recent-projects'></span>
 {% include_relative includes/projects.md %}
 
+<span class='anchor' id='-education'></span>
 {% include_relative includes/education.md %}
 
+<span class='anchor' id='-publications'></span>
 {% include_relative includes/pub.md %}
 
+<span class='anchor' id='-honours-and-awards'></span>
 {% include_relative includes/honours.md %}
 
+<span class='anchor' id='-service'></span>
 {% include_relative includes/service.md %}
