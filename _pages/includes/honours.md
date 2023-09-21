@@ -1,11 +1,11 @@
 # 🏅 Honours and Awards
 ## Honours
-- 06/2023, Outstanding Graduate Teaching Assistant of China Agricultural University
-- 10/2022, First Class Scholarship for Master Student
-- 06/2021, Excellent Bachelor of Guangxi University
+- 06/2023, Honorary title of 'Excellent Postgraduate Teaching Assistant' of China Agricultural University
+- 10/2022, First Class Scholarship for Postgraduate
+- 06/2021, Honorary title of 'Excellent Graduate' of Guangxi University
 - 05/2021, Excellent Bachelor Thesis of Guangxi University
 - 12/2020, National Encouragement Scholarship
-- 12/2019, Honorary title of 'Excellent Student' of Guangxi University
+- 12/2019, Honorary title of 'Excellent Undergraduate' of Guangxi University
 - 12/2019, National Encouragement Scholarship
 <!-- * 大创优秀结题 -->
 
