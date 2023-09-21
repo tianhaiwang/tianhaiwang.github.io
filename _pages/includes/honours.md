@@ -1,5 +1,6 @@
 # 🏅 Honours and Awards
 ## Honours
+- 06/2023, Outstanding Graduate Teaching Assistant of China Agricultural University
 - 10/2022, First Class Scholarship for Master Student
 - 06/2021, Excellent Bachelor of Guangxi University
 - 05/2021, Excellent Bachelor Thesis of Guangxi University
