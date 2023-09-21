@@ -13,8 +13,8 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-agent<br />Collaboration</div><img src='images/multi-agent-collaboration.png' alt="sym" width="200%"></div></div>
-</div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-agent<br />Collaboration</div><img src='images/multi-agent-collaboration.png' alt="sym" width="200%"></div></div>
+</div> -->
 
 I'm work on object detection and tracking based on multi-sensor fusion in unstructured farmland environment. Especially, I'm dedicated to realizing the detection of unknown objects in open environment via zero-shot learning, open set recognition, etc.
 
