@@ -13,10 +13,11 @@
 </div>
 </div>
 
+## Multi-agent collaborative system for agricultural production
+
 <center>
 <img src="images/multi-agent-collaboration.png" style="width: 100%"/>
 </center>
-
 
 I'm work on object detection and tracking based on multi-sensor fusion in unstructured farmland environment. Especially, I'm dedicated to realizing the detection of unknown objects in open environment via zero-shot learning, open set recognition, etc. In addition, I participated in the development of multi-agent collaborative systems as a main member.
 

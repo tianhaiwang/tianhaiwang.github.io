@@ -1,5 +1,5 @@
 # 📝 Publications
-## 🚜 Robot Navigation
+## Robot Navigation
 
 - **One-shot domain adaptive real-time 3D obstacle detection in farmland based on semantic-geometry-intensity fusion strategy**
 
@@ -30,7 +30,7 @@
 
     Nongye Jixie Xuebao/Transactions of the Chinese Society of Agricultural Machinery 2022 \| [[Available online](http://www.nyjxxb.net/index.php/journal/article/view/1489)]
 
-## 🛩️ UAV Remote Sensing
+## UAV Remote Sensing
 
 - **Applications of UAS in Crop Biomass Monitoring: A Review**
 
