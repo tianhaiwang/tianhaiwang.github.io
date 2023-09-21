@@ -17,7 +17,6 @@
 ## Multi-agent collaborative system for agricultural production
 
 <center>
-    <div class="badge">Multi-agent<br />Collaboration</div>
     <img src="images/multi-agent-collaboration.png" alt="sym" width="100%">
 </center>
 
