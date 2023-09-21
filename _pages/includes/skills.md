@@ -1,6 +1,6 @@
 # 💪 Skills
 - Programming
-  - Python, MATLAB, C++
+  - Python, MATLAB, C/C++
 - Framework
   - PyTorch, Robot Operating System (ROS)
 - Language
