@@ -5,7 +5,7 @@
 
     **Tianhai Wang**, Ning Wang, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
 
-    Computers and Electronics in Agriculture 2023 \| [[Accept](https://authors.elsevier.com/tracking/article/details.do?aid=108264&jid=COMPAG&surname=Zhang)]
+    Computers and Electronics in Agriculture 2023 \| [[Available online](https://www.sciencedirect.com/science/article/pii/S016816992300652X)]
 - **Zero-shot obstacle detection using panoramic vision in farmland**
 
     **Tianhai Wang**, Bin Chen, Ning Wang, Yuhan Ji, Han Li, Man Zhang\*
