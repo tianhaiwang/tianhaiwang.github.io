@@ -1,5 +1,6 @@
 # 🏅 Honours and Awards
 ## Honours
+- 10/2023, **National Scholarship of China** (The highest level scholarship awarded by the Chinese government, grant ratio=0.2%)
 - 06/2023, Honorary title of 'Outstanding Postgraduate Teaching Assistant' of China Agricultural University
 - 10/2022, First Class Scholarship for Postgraduate
 - 06/2021, Honorary title of 'Outstanding Graduate' of Guangxi University
