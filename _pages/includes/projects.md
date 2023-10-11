@@ -19,9 +19,9 @@
 <center>
     <br>
     <img src="images/multi-agent-collaboration.png" alt="sym" width="100%">
-    <br />
-</center>
-         
+    <br>
+    <br>
+</center>       
 I'm work on object detection and tracking based on multi-sensor fusion in unstructured farmland environment. Especially, I'm dedicated to realizing the detection of unknown objects in open environment via zero-shot learning, open set recognition, etc. In addition, I participated in the development of multi-agent collaborative systems as a main member.
 
 This work is being supported by the National Key Research and Development Program of China:
