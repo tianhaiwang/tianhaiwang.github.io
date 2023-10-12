@@ -26,6 +26,6 @@ I'm work on object detection and tracking based on multi-sensor fusion in unstru
 
 This work is being supported by the National Key Research and Development Program of China:
 
-- Common key technology and system research and development of corn unmanned operation (Grant No. 2022YFD2001601, CNY 4.0 million)
+- Research and development of common key technology and system for corn unmanned operation (Grant No. 2022YFD2001601, CNY 4.0 million)
 
-- Research and development of cloud management and control platform for rice full unmanned farm production (Grant No. 2021YFD2000604, CNY 6.0 million)
+- Research and development of cloud management and control platform for rice unmanned operation (Grant No. 2021YFD2000604, CNY 6.0 million)
