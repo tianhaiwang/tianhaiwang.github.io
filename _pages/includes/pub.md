@@ -6,6 +6,13 @@
     **Tianhai Wang**, Ning Wang, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
 
     Computers and Electronics in Agriculture 2023 \| [[Available online](https://www.sciencedirect.com/science/article/pii/S016816992300652X)]
+    
+    <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_oneshot.jpg' alt="sym" width="100%"></div></div>
+    <div class='paper-box-text' markdown="1">
+    By introducing the concept of one-shot domain adaptation, the proposed method enables fine-grained 3D obstacle detection with just one sample per category. By learning the intra-category similarity and inter-category difference, the dependence on the target domain dataset is transferred to the accessible source domain dataset, which enhances the generalization of the proposed method for different scenes and categories. 
+    </div>
+    </div>
+
 - **Zero-shot obstacle detection using panoramic vision in farmland**
 
     **Tianhai Wang**, Bin Chen, Ning Wang, Yuhan Ji, Han Li, Man Zhang\*
