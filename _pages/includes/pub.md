@@ -9,7 +9,7 @@
     
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_oneshot.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
-    By introducing the concept of one-shot domain adaptation, the proposed method enables fine-grained 3D obstacle detection with just one sample per category. By learning the intra-category similarity and inter-category difference, the dependence on the target domain dataset is transferred to the accessible source domain dataset, which enhances the generalization of the proposed method for different scenes and categories. 
+    By introducing the concept of one-shot domain adaptation, the proposed method enables 3D obstacle detection with just one sample per category. By learning the intra-category similarity and inter-category difference, the dependence on the target domain dataset is transferred to the accessible source domain dataset, which enhances the generalization of the proposed method for different scenes and categories. 
     </div>
     </div>
 
@@ -18,6 +18,13 @@
     **Tianhai Wang**, Bin Chen, Ning Wang, Yuhan Ji, Han Li, Man Zhang\*
 
     Journal of Field Robotics 2023 \| [[Available online](https://onlinelibrary.wiley.com/doi/10.1002/rob.22224)]
+
+    <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_zeroshot.jpg' alt="sym" width="100%"></div></div>
+    <div class='paper-box-text' markdown="1">
+    In the absence of annotated images, the current methods cannot perform optimally. Based on the visual‐semantic mapping relationship, the proposed model not only performs the correct classification of unseen obstacles, but also improves the detection performance of both seen and unseen obstacles.
+    </div>
+    </div>
+
 
 - **Collaborative path planning and task allocation for multiple agricultural machines**
 
