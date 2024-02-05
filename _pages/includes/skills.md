@@ -4,4 +4,4 @@
 - Framework
   - PyTorch, Robot Operating System (ROS)
 - Language
-  - Chinese, English
+  - Chinese, English (IELTS score: 6.0, Preparing for a higher score)

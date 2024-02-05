@@ -4,7 +4,7 @@
 
 ## Object detection and tracking based on multi-sensor fusion
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/multi-sensor-platform.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-sensor<br />Fusion</div><img src='images/multi-sensor-platform.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - AHRS: [Xsens MTi series](https://www.xsens.com/ahrs) Attitude and Heading Reference Systems
 - GNSS: [CHCNAV series](https://chcnav.com/product-detail/p5e-gnss) Global Navigation Satellite System
