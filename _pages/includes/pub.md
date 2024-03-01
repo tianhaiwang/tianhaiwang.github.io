@@ -28,11 +28,11 @@
 
 
 
-- **Collaborative path planning and task allocation for multiple agricultural machines**
+- **Collaborative path planning and task allocation for multiple agricultural machines** [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169923006063)]
 
     Ning Wang, Xi Yang, **Tianhai Wang**, Jianxing Xiao, Man Zhang, Han Li\*
 
-    Computers and Electronics in Agriculture, 2023 \| (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 8.3**) \| [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169923006063)]
+    Computers and Electronics in Agriculture, 2023 (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 8.3**)
 
 
 

@@ -1,7 +1,5 @@
 # 🛠️Research Projects
-## Current Projects
-
-### Multi-agent collaboration and obstacle avoidance system for wheat production
+## Current Projects - Multi-agent collaboration and obstacle avoidance system for wheat production
 
 I'm work on object detection and tracking based on multi-sensor fusion in unstructured farmland environment. Especially, I'm dedicated to realizing the detection of unknown objects in open environment via few/zero-shot learning, open set recognition, etc. In addition, I participated in the development of multi-agent collaborative systems as a main member.
 
@@ -11,7 +9,7 @@ This work is being supported by the National Key Research and Development Progra
 
 - Research and development of cloud management and control platform for rice unmanned operation (Grant No. 2021YFD2000604, CNY 6.0 million)
 
-**Object detection and tracking based on multi-sensor fusion**
+### Object detection and tracking based on multi-sensor fusion
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-sensor<br />Fusion</div><img src='images/multi-sensor-platform.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - AHRS: [Xsens MTi series](https://www.xsens.com/ahrs) Attitude and Heading Reference Systems
@@ -22,7 +20,7 @@ This work is being supported by the National Key Research and Development Progra
 </div>
 </div>
 
-**Multi-agent collaborative system for agricultural production**
+### Multi-agent collaborative system for agricultural production
 <center>
     <br>
     <img src="images/multi-agent-collaboration.png" alt="sym" width="100%">
@@ -42,7 +40,7 @@ This robot is designed to perform random movement indoors and real-time object d
 
 
 ### Robot grasping for fruit picking
-<div class='paper-box'><div class='paper-box-image'><div><img src='grasping_robot_small.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/grasping_robot_small.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 This robot is designed to pick simulated tomatoes through narrow roads. In terms of the hardware, I am responsible for mechanical design, 3D modeling and printing of robot chassis and actuators. With regard to the software, I mainly research perception-motion coordinated control algorithm.
 </div>
@@ -51,7 +49,7 @@ This robot is designed to pick simulated tomatoes through narrow roads. In terms
 
 
 ### Grasping and quadruped robots
-<div class='paper-box'><div class='paper-box-image'><div><img src='robocon.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/robocon.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 These robots are designed according to the rules of a national-level innovation competition. In this project, I am the team leader and mainly responsible for the arm control of the grasping robot and the inverse kinematics analysis of the quadruped robot. In this national-level innovation competition, our team won the third prize.
 </div>
@@ -59,7 +57,7 @@ These robots are designed according to the rules of a national-level innovation 
 
 
 ### Corn morphology detection and distribution machine
-<div class='paper-box'><div class='paper-box-image'><div><img src='corn_machine.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/corn_machine.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 This machine is designed for automatic distribution of corns according to their morphology as well as pest and disease conditions. In this project, I am the team leader and mainly responsible for corn detection, servo control, and their coordination. In a national-level innovation competition, our team won the second prize.
 </div>
@@ -67,7 +65,7 @@ This machine is designed for automatic distribution of corns according to their 
 
 
 ### Remote sensing based on Unmanned Aerial Vehicle (UAV)
-<div class='paper-box'><div class='paper-box-image'><div><img src='UAV_remote_sensing.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/UAV_remote_sensing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 This project was supported by the National Natural Science Foundation of China, which is dedicated to the early discovery and continuous monitoring of Mikania Micrantha (an invasive plant).In this project, I am the core member of algorithm development and mainly responsible for feature analysis and semantic segmentation of remote sensing images. 
 </div>
