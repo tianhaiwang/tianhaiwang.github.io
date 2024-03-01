@@ -1,11 +1,11 @@
 # 📝 Publications
+## Robot Navigation
 
-
-- **One-shot domain adaptive real-time 3D obstacle detection in farmland based on semantic-geometry-intensity fusion strategy** [[Available online](https://www.sciencedirect.com/science/article/pii/S016816992300652X)]
+- **One-shot domain adaptive real-time 3D obstacle detection in farmland based on semantic-geometry-intensity fusion strategy**
 
     **Tianhai Wang**, Ning Wang, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
 
-    Computers and Electronics in Agriculture, 2023 (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 8.3**)
+    Computers and Electronics in Agriculture 2023 \| [[Available online](https://www.sciencedirect.com/science/article/pii/S016816992300652X)]
     
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_oneshot.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
@@ -13,12 +13,11 @@
     </div>
     </div>
 
-
-- **Zero-shot obstacle detection using panoramic vision in farmland** [[Available online](https://onlinelibrary.wiley.com/doi/10.1002/rob.22224)]
+- **Zero-shot obstacle detection using panoramic vision in farmland**
 
     **Tianhai Wang**, Bin Chen, Ning Wang, Yuhan Ji, Han Li, Man Zhang\*
 
-    Journal of Field Robotics, 2023 (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 8.3**) 
+    Journal of Field Robotics 2023 \| [[Available online](https://onlinelibrary.wiley.com/doi/10.1002/rob.22224)]
 
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_zeroshot.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
@@ -27,41 +26,34 @@
     </div>
 
 
-
 - **Collaborative path planning and task allocation for multiple agricultural machines**
 
     Ning Wang, Xi Yang, **Tianhai Wang**, Jianxing Xiao, Man Zhang, Han Li\*
 
-    Computers and Electronics in Agriculture, 2023 \| (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 8.3**) \| [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169923006063)]
+    Computers and Electronics in Agriculture 2023 \| [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169923006063)]
 
-
-
-- **Applications of machine vision in agricultural robot navigation: A review** [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169922004021)]
+- **Applications of machine vision in agricultural robot navigation: A review**
 
     **Tianhai Wang**, Bin Chen, Zhenqian Zhang, Han Li, Man Zhang\*
 
-    Computers and Electronics in Agriculture, 2022 (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 8.3**, **ESI Highly Cited Paper**)
+    Computers and Electronics in Agriculture 2022 \| [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169922004021)]
 
-
-
-- **Research Progress of Agricultural Robot Full Coverage Operation Planning** [[Available online](http://www.nyjxxb.net/index.php/journal/article/view/1489)]
+- **Research Progress of Agricultural Robot Full Coverage Operation Planning**
 
     Ning Wang, Yuxiao Han, Yaxuan Wang, **Tianhai Wang**, Man Zhang, Han Li\*
 
-    Nongye Jixie Xuebao/Transactions of the Chinese Society of Agricultural Machinery, 2022 (EI)
+    Nongye Jixie Xuebao/Transactions of the Chinese Society of Agricultural Machinery 2022 \| [[Available online](http://www.nyjxxb.net/index.php/journal/article/view/1489)]
 
+## UAV Remote Sensing
 
-
-- **Applications of UAS in Crop Biomass Monitoring: A Review** [[Available online](https://www.frontiersin.org/articles/10.3389/fpls.2021.616689/full)]
+- **Applications of UAS in Crop Biomass Monitoring: A Review**
 
     **Tianhai Wang**, Yadong Liu, Minghui Wang, Qing Fan, Hongkun Tian, Xi Qiao\*, Yanzhou Li\*
 
-    Frontiers in Plant Science, 2021 (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 5.6**)
+    Frontiers in Plant Science 2021 \| [[Available online](https://www.frontiersin.org/articles/10.3389/fpls.2021.616689/full)]
 
-
-
-- **Computer vision technology in agricultural automation —A review** [[Available online](https://www.sciencedirect.com/science/article/pii/S2214317319301751)]
+- **Computer vision technology in agricultural automation —A review**
 
     Hongkun Tian, **Tianhai Wang**, Yadong Liu, Xi Qiao\*, Yanzhou Li\*
 
-    Information Processing in Agriculture, 2020 (EI, **Cited by 450+**)
+    Information Processing in Agriculture 2020 \| [[Available online](https://www.sciencedirect.com/science/article/pii/S2214317319301751)]
