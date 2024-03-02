@@ -2,6 +2,10 @@
 
 I'm work on object detection and tracking based on multi-sensor fusion in unstructured farmland environment. Especially, I'm dedicated to realizing the detection of unknown objects in open environment via few/zero-shot learning, open set recognition, etc. In addition, I participated in the development of multi-agent collaborative systems as a main member.
 
+Supervisor: 
+- Prof. [Man Zhang](https://www.scopus.com/authid/detail.uri?authorId=56294527200), Dean of the College of Information and Electrical Engineering
+<!-- - Prof. [Han Li](https://www.scopus.com/authid/detail.uri?authorId=57162704700),  -->
+
 This work is being supported by the National Key Research and Development Program of China:
 
 - Research and development of common key technology and system for corn unmanned operation (Grant No. 2022YFD2001601, CNY 4.0 million)
@@ -39,6 +43,12 @@ This robot is designed to perform random movement indoors and real-time object d
 
 
 - **Robot grasping for fruit picking**
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tomato_picking_robot.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+This robot is designed to pick tomatoes in greenhouse environments. In this project, I am the core member of algorithm development and mainly responsible for the robot hand-eye coordinated control algorithm, such as detection and positioning of tomatoes, and inverse kinematics analysis of the robotic arm. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/grasping_robot_small.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 This robot is designed to pick simulated tomatoes through narrow roads. In terms of the hardware, I am responsible for mechanical design, 3D modeling and printing of robot chassis and actuators. With regard to the software, I mainly research perception-motion coordinated control algorithm.
