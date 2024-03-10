@@ -1,8 +1,8 @@
 # 🛠️ Current Project - Multi-agent collaboration and obstacle avoidance system for wheat production
 
-I'm work on object detection and tracking based on multi-sensor fusion in unstructured farmland environment. Especially, I'm dedicated to realizing the detection of unknown objects in open environment via few/zero-shot learning, open set recognition, etc. 
+I'm work on <u>object detection and tracking</u> based on multi-sensor fusion in unstructured farmland environment. Especially, I'm dedicated to realizing the detection of unknown objects in open environment via <u>few/zero-shot learning</u>, <u>open set recognition</u>, etc. 
 
-In addition, I participated in the development of multi-agent collaborative systems as a main member. In this project, I am responsible for path planning and task allocation algorithms in the harvesting-unloading-transportation process of wheat production. According to constraints of plot location, task number, operation time window, and path planning, intelligent scheduling model was established based on non-dominated sorting genetic and colony algorithm.
+In addition, I participated in the development of <u>multi-agent collaborative system</u> as a main member. In this project, I am responsible for <u>path planning and task allocation algorithms</u> in the harvesting-unloading-transportation process of wheat production. According to constraints of plot location, task number, operation time window, and path planning, intelligent scheduling model was established based on <u>non-dominated sorting genetic and colony algorithms</u>.
 
 Supervisor: 
 - Prof. [Man Zhang](https://www.scopus.com/authid/detail.uri?authorId=56294527200), Dean of the College of Information and Electrical Engineering
