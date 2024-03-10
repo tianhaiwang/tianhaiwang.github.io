@@ -34,6 +34,11 @@
 
     Computers and Electronics in Agriculture, 2023 (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 8.3**)
 
+    <div class='paper-box'><div class='paper-box-image'><div><img src='images/collaborative_path_planning_and_task_allocation.gif' alt="sym" width="100%"></div></div>
+    <div class='paper-box-text' markdown="1">
+    The farm’s electronic map was constructed using the topological map method. The improved Dijkstra algorithm based on priority queues was combined with three different complete coverage methods: the nested method, the reciprocating method, and the combination of nested and internal spiral path methods. To solve the problem of illogical scheduling of the same type of agricultural machines, an improved ant colony method was presented based on the whole working path to minimize the path cost.
+    </div>
+    </div>
 
 
 - **Applications of machine vision in agricultural robot navigation: A review** [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169922004021)]
