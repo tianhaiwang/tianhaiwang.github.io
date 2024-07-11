@@ -1,8 +1,11 @@
 # 🏅 Honors and Awards
 ## Honors
-- 10/2023, **National Scholarship of China** (The **highest-level** scholarship awarded by the Chinese government, **grant ratio=0.2%**)
+- 06/2024, Outstanding Master Thesis of China Agricultural University (**Only one** master graduate in my college that year)
+- 05/2024, Honorary title of "Outstanding Graduate" of China Agricultural University
+- 12/2023, **National Scholarship of China** (The **highest-level** scholarship awarded by the Chinese government, **Award Percentage=0.2%**)
+- 11/2023, First Class Scholarship for Postgraduate of China Agricultural University
 - 06/2023, Honorary title of "Outstanding Postgraduate Teaching Assistant" of China Agricultural University
-- 10/2022, First Class Scholarship for Postgraduate of China Agricultural University
+- 11/2022, First Class Scholarship for Postgraduate of China Agricultural University
 - 06/2021, Honorary title of "Outstanding Graduate" of Guangxi University
 - 05/2021, Outstanding Bachelor Thesis of Guangxi University
 - 12/2020, National Encouragement Scholarship of China

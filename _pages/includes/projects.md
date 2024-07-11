@@ -5,7 +5,8 @@ I'm work on <u>object detection and tracking</u> based on multi-sensor fusion in
 In addition, I participated in the development of <u>multi-agent collaborative system</u> as a main member. In this project, I am responsible for <u>path planning and task allocation algorithms</u> in the harvesting-unloading-transportation process of wheat production. According to constraints of plot location, task number, operation time window, and path planning, intelligent scheduling model was established based on <u>non-dominated sorting genetic and colony algorithms</u>.
 
 Supervisor: 
-- Prof. [Man Zhang](https://www.scopus.com/authid/detail.uri?authorId=56294527200), Dean of the College of Information and Electrical Engineering
+- Prof. [Man Zhang](https://www.scopus.com/authid/detail.uri?authorId=56294527200), Dean of the College of Information and Electrical Engineering, Chair of International Conference on Smart Agriculture Innovation Development (ICSAID 2024), Chief Editor of International Federation for Automatic Control (IFAC 2018)
+
 <!-- - Prof. [Han Li](https://www.scopus.com/authid/detail.uri?authorId=57162704700),  -->
 
 This work is being supported by the National Key Research and Development Program of China:

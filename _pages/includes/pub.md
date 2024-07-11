@@ -1,11 +1,22 @@
 # 📝 Publications
 
+- **Multi-Modality Feature Representation Mechanism for 3D Detection of Agricultural Obstacles with Few or Zero Samples**
+
+    **Tianhai Wang**, Ning Wang, Shunda Li, Zhiwen Jin, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
+
+    Engineering, 2024 (SCI, ESI Top 10%, JCR Q1, **5-Year Impact Factor: 11.6**, Under Review)
+    
+    <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_camLiDARfusion.jpg' alt="sym" width="100%"></div></div>
+    <div class='paper-box-text' markdown="1">
+    This paper proposes a novel 3D detection method for agricultural obstacles with few or zero samples based on multi-modality feature representation mechanism. Specifically, image and point cloud attitude adjusters are integrated to enhance the accuracy, reliability, and uniformity of multi-modality data. Semantic and geometry-intensity feature encoders are integrated to capture essential relationships among categories. The Bird’s Eye View (BEV) fusion decoder is designed to discern intra-category similarities and inter-category distinctions. 
+    </div>
+    </div>
 
 - **One-shot domain adaptive real-time 3D obstacle detection in farmland based on semantic-geometry-intensity fusion strategy** [[Available online](https://www.sciencedirect.com/science/article/pii/S016816992300652X)]
 
     **Tianhai Wang**, Ning Wang, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
 
-    Computers and Electronics in Agriculture, 2023 (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 8.3**)
+    Computers and Electronics in Agriculture, 2023 (SCI, ESI Top 10%, JCR Q1, **5-Year Impact Factor: 8.4**)
     
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_oneshot.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
@@ -18,7 +29,7 @@
 
     **Tianhai Wang**, Bin Chen, Ning Wang, Yuhan Ji, Han Li, Man Zhang\*
 
-    Journal of Field Robotics, 2023 (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 8.3**) 
+    Journal of Field Robotics, 2023 (SCI, ESI Top 10%, JCR Q1, **5-Year Impact Factor:  7.2**) 
 
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_zeroshot.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
@@ -32,7 +43,7 @@
 
     Ning Wang, Xi Yang, **Tianhai Wang**, Jianxing Xiao, Man Zhang, Han Li\*
 
-    Computers and Electronics in Agriculture, 2023 (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 8.3**)
+    Computers and Electronics in Agriculture, 2023 (SCI, ESI Top 10%, JCR Q1, **5-Year Impact Factor: 8.4**)
 
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/collaborative_path_planning_and_task_allocation.gif' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
@@ -45,7 +56,7 @@
 
     **Tianhai Wang**, Bin Chen, Zhenqian Zhang, Han Li, Man Zhang\*
 
-    Computers and Electronics in Agriculture, 2022 (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 8.3**, **ESI Highly Cited Paper**)
+    Computers and Electronics in Agriculture, 2022 (SCI, ESI Top 10%, JCR Q1, **5-Year Impact Factor: 8.4**, **ESI Highly Cited Paper**)
 
 
 
@@ -61,7 +72,7 @@
 
     **Tianhai Wang**, Yadong Liu, Minghui Wang, Qing Fan, Hongkun Tian, Xi Qiao\*, Yanzhou Li\*
 
-    Frontiers in Plant Science, 2021 (SCI, ESI Top 10%, JCR Q1, **Impact Factor: 5.6**)
+    Frontiers in Plant Science, 2021 (SCI, ESI Top 10%, JCR Q1, **5-Year Impact Factor: 5.3**)
 
 
 
@@ -69,4 +80,4 @@
 
     Hongkun Tian, **Tianhai Wang**, Yadong Liu, Xi Qiao\*, Yanzhou Li\*
 
-    Information Processing in Agriculture, 2020 (EI, **Cited by 450+**)
+    Information Processing in Agriculture, 2020 (ESCI, **Impact Factor: 7.7**, **Cited by 450+**)
