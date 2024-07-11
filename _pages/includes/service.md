@@ -1,6 +1,6 @@
 # 👔 Service
 - Student Member, Chinese Society of Agricultural Engineering
-- Teaching Assistant, Fall 2022&2023 Intelligent Navigation Technology Course
+- Teaching Assistant, Fall 2022&2023 Intelligent Guidance Technology Course
 <!-- - Class Assistant, Smart Agriculture (AI+) Special Class for Improving the Comprehensive Ability of Graduate Students -->
 <!-- - Publicity Assistant, Shaanxi Special Project of 2022 China Agricultural University Undergraduate Online Information Session -->
 
