@@ -16,7 +16,7 @@
 ## Awards
 - 04/2020, Guangxi College Students Innovation Design and Production Competition, **Ministerial 3rd Prize**
 - 12/2019, National College Students Intelligent Agricultural Equipment Innovation Competition, **National 2nd Prize**
-- 11/2019, China College Students "Internet+" Innovation and Entrepreneurship Competition in Guangxi Division, Bronze Medal
+- 11/2019, China College Students "Internet+" Innovation and Entrepreneurship Competition in Guangxi Division, **Ministerial Bronze Medal**
 - 10/2019, National 3D lnnovative Design Annual Competition in Guangxi Division, **Ministerial 2nd Prize**
 - 07/2019, National University Students Electrical Math Modeling Competition, **National 3rd Prize**
 - 07/2019, National 3D lnnovative Design Elite Competition in Guangxi Division, **Ministerial 2nd Prize**
