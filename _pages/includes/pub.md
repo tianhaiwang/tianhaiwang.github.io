@@ -80,4 +80,4 @@
 
     Hongkun Tian, **Tianhai Wang**, Yadong Liu, Xi Qiao\*, Yanzhou Li\*
 
-    Information Processing in Agriculture, 2020 (ESCI, **Impact Factor: 7.7**, **Cited by 450+**)
+    Information Processing in Agriculture, 2020 (ESCI, **Impact Factor: 7.7**, **Cited by 500+**)
