@@ -3,6 +3,6 @@ I'm a M.Sc. graduate at College of Information and Electrical Engineering, [Chin
 
 If you are seeking any form of academic cooperation, please feel free to email me at [tianhai.wang@cau.edu.cn](mailto:tianhai.wang@cau.edu.cn).
 
-**Research interest:** obstacle avoidance, multi-agent/robot collaboration, simultaneous localization and mapping (SLAM), object detection and tracking, semantic and instance segmentation, LiDAR-camera panoramic fusion, and related applications such as autonomous vehicles, field robotics, and smart agriculture.
+**Research interest:** object detection and tracking, few/zero-shot learning, open set recognition, LiDAR-camera panoramic fusion, point cloud processing, simultaneous localization and mapping (SLAM), and related applications such as autonomous vehicles, field robotics, and smart agriculture.
 
 **Announcement:** I'm looking for a challenging and satisfying Ph.D. position that will commensurate with educational background.
