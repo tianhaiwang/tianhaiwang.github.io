@@ -9,11 +9,11 @@ Supervisor:
 
 <!-- - Prof. [Han Li](https://www.scopus.com/authid/detail.uri?authorId=57162704700),  -->
 
-<!-- This work is being supported by the National Key Research and Development Program of China:
+This work is being supported by the National Key Research and Development Program of China:
 
 - Research and development of common key technology and system for corn unmanned operation (Grant No. 2022YFD2001601, CNY 4.0 million)
 
-- Research and development of cloud management and control platform for rice unmanned operation (Grant No. 2021YFD2000604, CNY 6.0 million) -->
+- Research and development of cloud management and control platform for rice unmanned operation (Grant No. 2021YFD2000604, CNY 6.0 million)
 
 **Object detection and tracking based on multi-sensor fusion**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-sensor<br />Fusion</div><img src='images/multi-sensor-platform.png' alt="sym" width="100%"></div></div>
@@ -46,11 +46,11 @@ This robot is designed to perform random movement indoors and real-time object d
 
 
 - **Robot grasping for fruit picking**
-<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/tomato_picking_robot.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tomato_picking_robot.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 This robot is designed to pick tomatoes in greenhouse environments. In this project, I am the core member of algorithm development and mainly responsible for the robot hand-eye coordinated control algorithm, such as detection and positioning of tomatoes, and inverse kinematics analysis of the robotic arm. 
 </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/grasping_robot_small.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
