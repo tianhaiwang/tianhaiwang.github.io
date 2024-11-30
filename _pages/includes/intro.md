@@ -1,7 +1,7 @@
 # 😃 About Me
 I'm a M.Sc. (research degree) graduate at College of Information and Electrical Engineering, [China Agricultural University](http://en.cau.edu.cn/), where I work on automatic perception and navigation for agricultural robots, including object detection and tracking, zero-shot learning, LiDAR-camera panoramic fusion, etc. Before that, I obtained my B.Eng. degree from School of Mechanical Engineering, [Guangxi University](https://english.gxu.edu.cn/) in June, 2021.
 
-If you are seeking any form of academic cooperation, please feel free to email me at [tianhai.wang@cau.edu.cn](mailto:tianhai.wang@foxmail.com).
+If you are seeking any form of academic cooperation, please feel free to email me at [tianhai.wang@foxmail.com](mailto:tianhai.wang@foxmail.com).
 
 **Research interest:** obstacle avoidance, multi-agent/robot collaboration, simultaneous localization and mapping (SLAM), object detection and tracking, semantic and instance segmentation, LiDAR-camera panoramic fusion, and related applications such as autonomous vehicles, field robotics, plant phenotyping, and smart agriculture.
 
