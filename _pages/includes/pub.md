@@ -29,7 +29,7 @@
 
     **Tianhai Wang**, Bin Chen, Ning Wang, Yuhan Ji, Han Li, Man Zhang\*
 
-    Journal of Field Robotics, 2023 (SCI, ESI Top 10%, JCR Q2, **5-Year Impact Factor:  7.2**) 
+    Journal of Field Robotics, 2023 (SCI, ESI Top 10%, JCR Q2, **5-Year Impact Factor: 7.2**, [Special Report](https://mp.weixin.qq.com/s/tF2o19_KzcmQpVHueIEF5Q) by WeChat Public Platform) 
 
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_zeroshot.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
