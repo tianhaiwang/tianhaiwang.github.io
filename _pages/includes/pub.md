@@ -16,7 +16,7 @@
 
     **Tianhai Wang**, Ning Wang, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
 
-    Computers and Electronics in Agriculture, 2023 (SCI, ESI Top 10%, JCR Q1, **5-Year Impact Factor: 8.4**)
+    Computers and Electronics in Agriculture, 2023 (SCI, ESI Top 10%, JCR Q1, **5-Year Impact Factor: 8.4**, [Special Report](https://mp.weixin.qq.com/s/X8LfWu0eEayKZCPXWpOclg) by WeChat Public Platform)
     
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_oneshot.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
