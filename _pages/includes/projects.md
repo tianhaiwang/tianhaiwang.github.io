@@ -1,6 +1,12 @@
-# 🛠️ Current Project - Multi-agent collaboration and obstacle avoidance system for wheat production
+<!-- # 🛠️ Current Project - Multi-agent collaboration and obstacle avoidance system for wheat production -->
 
-I'm work on <u>object detection and tracking</u> based on multi-sensor fusion in unstructured farmland environment. Especially, I'm dedicated to realizing the detection of unknown objects in open environment via <u>few/zero-shot learning</u>, <u>open set recognition</u>, etc. 
+# ✅ Completed Projects
+
+<!-- # 🛠️ Current Project -->
+
+## Multi-agent collaboration and obstacle avoidance system for wheat production
+
+This work focuses on <u>object detection and tracking</u> based on multi-sensor fusion in unstructured farmland environment. Especially, I'm dedicated to realizing the detection of unknown objects in open environment via <u>few/zero-shot learning</u>, <u>open set recognition</u>, etc. 
 
 In addition, I participated in the development of <u>multi-agent collaborative system</u> as a main member. In this project, I am responsible for <u>path planning and task allocation algorithms</u> in the harvesting-unloading-transportation process of wheat production. According to constraints of plot location, task number, operation time window, and path planning, intelligent scheduling model was established based on <u>non-dominated sorting genetic and colony algorithms</u>.
 
@@ -35,7 +41,7 @@ Supervisor:
 </center>       
 
 
-# ✅ Completed Projects
+
 
 - **Robot patrol based on Simultaneous Localization And Mapping (SLAM)**
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/indoor_patrol_robot.gif' alt="sym" width="100%"></div></div>

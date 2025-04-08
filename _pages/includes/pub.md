@@ -1,6 +1,6 @@
 # 📝 Publications
 
-- **Multi-Modality Feature Representation Mechanism for 3D Detection of Agricultural Obstacles with Few or Zero Samples**
+<!-- - **Multi-Modality Feature Representation Mechanism for 3D Detection of Agricultural Obstacles with Few or Zero Samples**
 
     **Tianhai Wang**, Ning Wang, Shunda Li, Zhiwen Jin, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
 
@@ -10,7 +10,7 @@
     <div class='paper-box-text' markdown="1">
     This paper proposes a novel 3D detection method for agricultural obstacles with few or zero samples based on multi-modality feature representation mechanism. Specifically, image and point cloud attitude adjusters are integrated to enhance the accuracy, reliability, and uniformity of multi-modality data. Semantic and geometry-intensity feature encoders are integrated to capture essential relationships among categories. The Bird’s Eye View (BEV) fusion decoder is designed to discern intra-category similarities and inter-category distinctions. 
     </div>
-    </div>
+    </div> -->
 
 - **One-shot domain adaptive real-time 3D obstacle detection in farmland based on semantic-geometry-intensity fusion strategy** [[Available online](https://www.sciencedirect.com/science/article/pii/S016816992300652X)]
 

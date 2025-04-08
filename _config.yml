@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Tianhai Wang"
-description              : "Dept. of Electronic Engineering, College of Information and Electrical Engineering, China Agricultural University"
+# description              : "Dept. of Electronic Engineering, College of Information and Electrical Engineering, China Agricultural University"
+description              : "Lab of Field Phenomics, The University of Tokyo"
 repository               : "tianhaiwang/tianhaiwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianhai Wang"
   avatar           : "images/wth_profile.png"
-  bio              : "M.Eng. Graduate"
-  location         : "Beijing, China"
+  bio              : "Ph.D. Student"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WmxsGtwAAAAJ&hl=en&oi=ao"
-  email            : "tianhai.wang@foxmail.com"
+  email            : "tianhai.wang@fieldphenomics.com"
   researchgate     : "https://www.researchgate.net/profile/Tianhai-Wang"
   uri              :
   bitbucket        :
