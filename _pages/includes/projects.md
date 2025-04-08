@@ -4,7 +4,7 @@
 
 <!-- # 🛠️ Current Project -->
 
-## Multi-agent collaboration and obstacle avoidance system for wheat production
+- ## Multi-agent collaboration and obstacle avoidance system for wheat production
 
 This work focuses on <u>object detection and tracking</u> based on multi-sensor fusion in unstructured farmland environment. Especially, I'm dedicated to realizing the detection of unknown objects in open environment via <u>few/zero-shot learning</u>, <u>open set recognition</u>, etc. 
 
@@ -43,7 +43,7 @@ Supervisor:
 
 
 
-- **Robot patrol based on Simultaneous Localization And Mapping (SLAM)**
+- ## Robot patrol based on Simultaneous Localization And Mapping (SLAM)
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/indoor_patrol_robot.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 This robot is designed to perform random movement indoors and real-time object detection, which can check whether there are suspicious persons in the room. In this project, I am the team leader and mainly responsible for the development of 3D modeling, object detection, and Simultaneous Localization And Mapping (SLAM). In a ministerial-level innovation competition, our team won the second prize. 
@@ -51,7 +51,7 @@ This robot is designed to perform random movement indoors and real-time object d
 </div>
 
 
-- **Robot grasping for fruit picking**
+- ## Robot grasping for fruit picking
 <!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/tomato_picking_robot.gif' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 <!-- This robot is designed to pick tomatoes in greenhouse environments. In this project, I am the core member of algorithm development and mainly responsible for the robot hand-eye coordinated control algorithm, such as detection and positioning of tomatoes, and inverse kinematics analysis of the robotic arm.  -->
@@ -66,7 +66,7 @@ This robot is designed to pick simulated tomatoes through narrow roads. In terms
 
 
 
-- **Grasping and quadruped robots**
+- ## Grasping and quadruped robots
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/robocon.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 These robots are designed according to the rules of a national-level innovation competition. In this project, I am the team leader and mainly responsible for the arm control of the grasping robot and the inverse kinematics analysis of the quadruped robot. In this national-level innovation competition, our team won the third prize.
@@ -74,7 +74,7 @@ These robots are designed according to the rules of a national-level innovation 
 </div>
 
 
-- **Corn morphology detection and distribution machine**
+- ## Corn morphology detection and distribution machine
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/corn_machine.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 This machine is designed for automatic distribution of corns according to their morphology as well as pest and disease conditions. In this project, I am the team leader and mainly responsible for corn detection, servo control, and their coordination. In a national-level innovation competition, our team won the second prize.
@@ -82,7 +82,7 @@ This machine is designed for automatic distribution of corns according to their 
 </div>
 
 
-- **Remote sensing based on Unmanned Aerial Vehicle (UAV)**
+- ## Remote sensing based on Unmanned Aerial Vehicle (UAV)
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/UAV_remote_sensing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 This project was supported by the National Natural Science Foundation of China, which is dedicated to the early discovery and continuous monitoring of Mikania Micrantha (an invasive plant).In this project, I am the core member of algorithm development and mainly responsible for feature analysis and semantic segmentation of remote sensing images. 
