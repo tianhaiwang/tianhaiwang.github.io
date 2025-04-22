@@ -1,7 +1,9 @@
 # 🔥 News
 - *2025.04*: I join [Laboratory of Field Phenomics](https://lab.fieldphenomics.com/) at The University of Tokyo as a Ph.D. student.
 
-- *2025.03*: 🎉🎉 My [google scholar](https://scholar.google.com/citations?hl=en&user=WmxsGtwAAAAJ) citations have exceeded 1000.
+- *2025.03*: My [google scholar](https://scholar.google.com/citations?hl=en&user=WmxsGtwAAAAJ) citations have exceeded 1000.
+
+- *2025.03*: I was selected to receive the support of [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/en/) Project.
 
 <!-- - *2022.09*: Three papers are accepted by NeurIPS 2022!
 

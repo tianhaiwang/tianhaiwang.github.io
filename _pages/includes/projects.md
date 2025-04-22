@@ -1,9 +1,11 @@
 # 🛠️ Current Project - Digital Twins and Virtual Reality for Orchard Robotics
 
+The primary objective of this research is to develop a highly integrated autonomous field robot system capable of precision pruning in smart orchards, including machine vision system development, automatic navigation system development, and end-effector control system development.
 
+At the beginning, we focus on providing simulation environments for the training and testing of robots through digital twins and virtual reality.
 
 Supervisor: 
-- Associate Prof. [Wei GUO](https://www.u-tokyo.ac.jp/focus/en/people/k0001_01967.html)
+- Associate Prof. [Wei GUO](https://lab.fieldphenomics.com/)
 
 # ✅ Completed Projects
 
@@ -16,7 +18,9 @@ This work focuses on <u>object detection and tracking</u> based on multi-sensor 
 In addition, I participated in the development of <u>multi-agent collaborative system</u> as a main member. In this project, I am responsible for <u>path planning and task allocation algorithms</u> in the harvesting-unloading-transportation process of wheat production. According to constraints of plot location, task number, operation time window, and path planning, intelligent scheduling model was established based on <u>non-dominated sorting genetic and colony algorithms</u>.
 
 Supervisor: 
-- Prof. [Man Zhang](https://www.scopus.com/authid/detail.uri?authorId=56294527200), Dean of the College of Information and Electrical Engineering, Chair of International Conference on Smart Agriculture Innovation Development (ICSAID 2024), Chief Editor of International Federation for Automatic Control (IFAC 2018)
+- Prof. [Man Zhang](https://www.scopus.com/authid/detail.uri?authorId=56294527200).
+
+ <!-- Dean of the College of Information and Electrical Engineering, Chair of International Conference on Smart Agriculture Innovation Development (ICSAID 2024), Chief Editor of International Federation for Automatic Control (IFAC 2018) -->
 
 <!-- - Prof. [Han Li](https://www.scopus.com/authid/detail.uri?authorId=57162704700),  -->
 
