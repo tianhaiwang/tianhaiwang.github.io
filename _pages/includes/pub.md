@@ -12,19 +12,7 @@
     </div>
     </div> -->
 
-- **A collaborative scheduling and planning method for multiple machines in harvesting and transportation operations-Part Ⅰ: Harvester task allocation and sequence optimization** [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169925001668)]
 
-- **A collaborative scheduling and planning method for multiple machines in harvesting and transportation operations-part Ⅱ: Scheduling and planning of harvesters and grain trucks** [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169925004508)]
-
-    Ning Wang, Shunda Li, Jianxing Xiao, **Tianhai Wang**, Yuxiao Han, Hao Wang, Man Zhang, Han Li\*
-
-    Computers and Electronics in Agriculture, 2025 (SCI, IF<sub>2023-2024</sub>=7.7)
-
-    <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_DoublePart.jpg' alt="sym" width="100%"></div></div>
-    <div class='paper-box-text' markdown="1">
-    In Part Ⅰ of this two-part paper, the primary focus was to address the issue of collaborative scheduling for harvesters through task allocation and whole-process path planning. In Part II, the emphasis shifts to addressing the collaborative scheduling and planning of both harvesters and grain trucks while considering the efficiency of grain trucks. 
-    </div>
-    </div>
 
 
 
@@ -55,6 +43,36 @@
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_zeroshot.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
     In the absence of annotated images, the current methods cannot perform optimally. Based on the visual‐semantic mapping relationship, the proposed model not only performs the correct classification of unseen obstacles, but also improves the detection performance of both seen and unseen obstacles.
+    </div>
+    </div>
+
+
+
+- **A collaborative scheduling and planning method for multiple machines in harvesting and transportation operations-Part Ⅰ: Harvester task allocation and sequence optimization** [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169925001668)]
+
+- **A collaborative scheduling and planning method for multiple machines in harvesting and transportation operations-part Ⅱ: Scheduling and planning of harvesters and grain trucks** [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169925004508)]
+
+    Ning Wang, Shunda Li, Jianxing Xiao, **Tianhai Wang**, Yuxiao Han, Hao Wang, Man Zhang, Han Li\*
+
+    Computers and Electronics in Agriculture, 2025 (SCI, IF<sub>2023-2024</sub>=7.7)
+
+    <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_DoublePart.jpg' alt="sym" width="100%"></div></div>
+    <div class='paper-box-text' markdown="1">
+    In Part Ⅰ of this two-part paper, the primary focus was to address the issue of collaborative scheduling for harvesters through task allocation and whole-process path planning. In Part II, the emphasis shifts to addressing the collaborative scheduling and planning of both harvesters and grain trucks while considering the efficiency of grain trucks. 
+    </div>
+    </div>
+
+
+
+- **Hybrid path planning methods for complete coverage in harvesting operation scenarios** [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169925000523)]
+
+    Ning Wang, Zhiwen Jin, **Tianhai Wang**, Jianxing Xiao, Zhang Zhao, Hao Wang, Man Zhang, Han Li\*
+
+    Computers and Electronics in Agriculture, 2025 (SCI, IF<sub>2023-2024</sub>=7.7)
+
+    <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_CCPP.jpg' alt="sym" width="100%"></div></div>
+    <div class='paper-box-text' markdown="1">
+    This study addresses the challenge of autonomous navigation path planning for achieving complete coverage operations using agricultural machines within harvest operation scenarios. We proposed a hybrid method mixing nested and spiral method to solve path planning problems for convex polygonal plots during harvest operations, focusing on the development of path planning models and complete coverage path planning (CCPP) method.
     </div>
     </div>
 
