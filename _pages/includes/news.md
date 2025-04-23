@@ -5,7 +5,7 @@
 
 - 03/2025: I was selected to receive the support of [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/en/) Project.
 
-- 02/2025: I have passed the entrance examination for [IPADS Ph.D. Program](https://ipads.a.u-tokyo.ac.jp/wp/wp-content/uploads/2025_IPADS%E8%A6%81%E9%A0%85%E5%8D%9A%E5%A3%AB-Final.pdf)([SGU](https://en.wikipedia.org/wiki/Top_Global_University_Project), only 2  admitted students per round) at The University of Tokyo.
+- 02/2025: I have passed the entrance examination for [IPADS PhD Program](https://ipads.a.u-tokyo.ac.jp/wp/wp-content/uploads/2025_IPADS%E8%A6%81%E9%A0%85%E5%8D%9A%E5%A3%AB-Final.pdf) ([SGU](https://en.wikipedia.org/wiki/Top_Global_University_Project), only 2  admitted students per round) at The University of Tokyo.
 
 <!-- - *2022.09*: Three papers are accepted by NeurIPS 2022!
 
