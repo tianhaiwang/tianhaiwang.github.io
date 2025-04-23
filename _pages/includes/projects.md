@@ -1,8 +1,10 @@
-# 🛠️ Current Project - Digital Twins and Virtual Reality for Orchard Robotics
+# 🛠️ Current Project - Digital Twin and Virtual Reality for Orchard Robotics
 
 The primary objective of this research is to develop a highly integrated autonomous field robot system capable of precision pruning in smart orchards, including machine vision system development, automatic navigation system development, and end-effector control system development.
 
-At the beginning, we focus on providing simulation environments for the training and testing of robots through digital twins and virtual reality.
+Ultimately, we aim to achieve [Embodied AI](https://lamarr-institute.org/blog/embodied-ai-explained/) systems based on end-to-end [Vision-Language-Action](https://en.wikipedia.org/wiki/Vision-language-action_model) models.
+
+At the beginning, we focus on constructing simulation environments for the training and testing of robots through [Digital Twin](https://www.ibm.com/think/topics/what-is-a-digital-twin) and [Virtual Reality](https://en.wikipedia.org/wiki/Virtual_reality), designing a 3D [World Foundation Model](https://www.nvidia.com/en-us/glossary/world-models/) for orchards, and providing a systematic and comprehensive benchmark dataset for the field of agricultural engineering.
 
 Supervisor: 
 - Associate Prof. [Wei GUO](https://lab.fieldphenomics.com/)
