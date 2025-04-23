@@ -9,6 +9,14 @@ At the beginning, we focus on constructing simulation environments for the train
 Supervisor: 
 - Associate Prof. [Wei GUO](https://lab.fieldphenomics.com/)
 
+Related equipment:
+- [Unitree Go2](https://www.unitree.com/go2) Intelligent Bionic Quadruped Robot
+- [Kubota KATR](https://www.kubota.com/kubotastories/ces-katr/index.html) All-terrain Platform Vehicle
+- [FJD TRION™ P1](https://www.fjdynamics.com/product/fjd-trion-p1-lidar-scanner) LIDAR SCANNER
+
+<!-- - [另一个激光雷达名称]() -->
+<!-- - [机械臂名称]() -->
+
 # ✅ Completed Projects
 
 <!-- # 🛠️ Current Project -->
