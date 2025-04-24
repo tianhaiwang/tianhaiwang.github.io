@@ -12,9 +12,10 @@ Supervisor:
 Related equipment:
 - [Unitree Go2](https://www.unitree.com/go2) Intelligent Bionic Quadruped Robot
 - [Kubota KATR](https://www.kubota.com/kubotastories/ces-katr/index.html) All-terrain Platform Vehicle
+
 - [FJD TRION™ P1](https://www.fjdynamics.com/product/fjd-trion-p1-lidar-scanner) LiDAR Scanner
 
-<!-- - [另一个激光雷达名称]() -->
+- [XGRIDS LixelKity K1](https://xgrids.com/lixelk1) Compact Handheld 3D Scanner
 <!-- - [机械臂名称]() -->
 
 # ✅ Completed Projects
