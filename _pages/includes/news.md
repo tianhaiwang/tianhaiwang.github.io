@@ -1,7 +1,7 @@
 # 🔥 News
 - 04/2025: I have joined [Laboratory of Field Phenomics](https://lab.fieldphenomics.com/) at The University of Tokyo as a Ph.D. student.
 
-- 03/2025: My [google scholar](https://scholar.google.com/citations?hl=en&user=WmxsGtwAAAAJ) citations have exceeded 1000.
+- 03/2025: My [Google Scholar](https://scholar.google.com/citations?hl=en&user=WmxsGtwAAAAJ) citations have exceeded 1000.
 
 - 03/2025: I was selected to receive the support of [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/en/) Project.
 
