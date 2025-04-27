@@ -7,7 +7,7 @@ Ultimately, we aim to achieve [Embodied AI](https://lamarr-institute.org/blog/em
 At the beginning, we focus on constructing simulation environments for the training and testing of robots through [Digital Twin](https://www.ibm.com/think/topics/what-is-a-digital-twin) and [Virtual Reality](https://en.wikipedia.org/wiki/Virtual_reality), designing a 3D [World Foundation Model](https://www.nvidia.com/en-us/glossary/world-models/) for orchards, and providing a systematic and comprehensive benchmark dataset for the field of agricultural engineering.
 
 Supervisor: 
-- Associate Prof. [Wei GUO](https://lab.fieldphenomics.com/)
+- Associate Prof. [Wei GUO](https://scholar.google.com/citations?user=pnMyJLEAAAAJ)
 
 Related Support:
 
@@ -32,7 +32,8 @@ This work focuses on <u>object detection and tracking</u> based on multi-sensor 
 In addition, I participated in the development of <u>multi-agent collaborative system</u> as a main member. In this project, I am responsible for <u>path planning and task allocation algorithms</u> in the harvesting-unloading-transportation process of wheat production. According to constraints of plot location, task number, operation time window, and path planning, intelligent scheduling model was established based on <u>non-dominated sorting genetic and colony algorithms</u>.
 
 Supervisor: 
-- Prof. [Man Zhang](https://www.scopus.com/authid/detail.uri?authorId=56294527200).
+- Prof. [Man Zhang](https://www.scopus.com/authid/detail.uri?authorId=56294527200)
+- Associate Prof. [Han Li](https://scholar.google.com/citations?user=vaIc89AAAAAJ)
 
  <!-- Dean of the College of Information and Electrical Engineering, Chair of International Conference on Smart Agriculture Innovation Development (ICSAID 2024), Chief Editor of International Federation for Automatic Control (IFAC 2018) -->
 
