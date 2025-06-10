@@ -6,14 +6,17 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Research Projects"
-    url: "/#-research-projects"
+  - title: "Researches"
+    url: "/#-researches"
 
   - title: "Education"
     url: "/#-education"
 
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Funding"
+    url: "/#-funding"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
