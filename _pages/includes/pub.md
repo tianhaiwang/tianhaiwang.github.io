@@ -14,8 +14,6 @@
 
 
 
-
-
 - **One-shot domain adaptive real-time 3D obstacle detection in farmland based on semantic-geometry-intensity fusion strategy** [[Available online](https://www.sciencedirect.com/science/article/pii/S016816992300652X)]
 
     **Tianhai Wang**, Ning Wang, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
@@ -48,13 +46,26 @@
 
 
 
+- **An integrated solution for collaborative scheduling of heterogeneous agricultural machines of different types in harvesting-transportation scenarios** [[Available online](https://www.sciencedirect.com/science/article/pii/S2214317325000320)]
+
+    Ning Wang, Zhiwen Jin, Man Zhang, Jianxing Xiao, **Tianhai Wang**, Qiang Sheng, Hao Wang, Han Li\*
+
+    Information Processing in Agriculture, 2025 (SCI, IF<sub>2024-2025</sub>=7.4) 
+
+    <div class='paper-box'><div class='paper-box-image'><div><img src='images/2025_IPA_Ning.jpg' alt="sym" width="100%"></div></div>
+    <div class='paper-box-text' markdown="1">
+    Efficient coordination of machinery fleets in regional farmland operations remains a significant challenge due to the lack of scientifically grounded scheduling management strategies, high modeling complexity, and elevated operational costs. This study proposed an integrated solution for collaborative scheduling of heterogeneous agricultural machines of different types, aiming to address the collaborative scheduling of harvesters and grain trucks in harvest-transport scenarios.
+    </div>
+    </div>
+
+
 - **A collaborative scheduling and planning method for multiple machines in harvesting and transportation operations-Part Ⅰ: Harvester task allocation and sequence optimization** [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169925001668)]
 
 - **A collaborative scheduling and planning method for multiple machines in harvesting and transportation operations-part Ⅱ: Scheduling and planning of harvesters and grain trucks** [[Available online](https://www.sciencedirect.com/science/article/pii/S0168169925004508)]
 
     Ning Wang, Shunda Li, Jianxing Xiao, **Tianhai Wang**, Yuxiao Han, Hao Wang, Man Zhang, Han Li\*
 
-    Computers and Electronics in Agriculture, 2025 (SCI, IF<sub>2023-2024</sub>=7.7)
+    Computers and Electronics in Agriculture, 2025 (SCI, IF<sub>2024-2025</sub>=8.9)
 
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_DoublePart.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
@@ -68,7 +79,7 @@
 
     Ning Wang, Zhiwen Jin, **Tianhai Wang**, Jianxing Xiao, Zhang Zhao, Hao Wang, Man Zhang, Han Li\*
 
-    Computers and Electronics in Agriculture, 2025 (SCI, IF<sub>2023-2024</sub>=7.7)
+    Computers and Electronics in Agriculture, 2025 (SCI, IF<sub>2024-2025</sub>=8.9)
 
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_CCPP.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">

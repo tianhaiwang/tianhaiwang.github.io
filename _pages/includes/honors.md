@@ -16,7 +16,7 @@
 - 12/2019, Honorary title of "Outstanding Undergraduate" of Guangxi University
 - 12/2019, National Encouragement Scholarship of China
 
-## Awards
+## Competition Awards
 - 04/2020, Guangxi College Students Innovation Design and Production Competition, **Ministerial 3rd Prize**
 - 12/2019, National College Students Intelligent Agricultural Equipment Innovation Competition, **National 2nd Prize**
 - 11/2019, China College Students "Internet+" Innovation and Entrepreneurship Competition in Guangxi Division, **Ministerial Bronze Medal**

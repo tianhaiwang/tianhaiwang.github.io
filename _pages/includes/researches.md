@@ -1,4 +1,4 @@
-# 💡 Current Research - Digital Twin and Virtual Reality for Orchard Robotics
+# 🛠️ Current Research - Digital Twin and Virtual Reality for Orchard Robotics
 
 The primary objective of this research is to develop a highly integrated autonomous field robot system capable of precision pruning in smart orchards, including machine vision system development, automatic navigation system development, and end-effector control system development.
 
