@@ -1,6 +1,6 @@
 # 🔥 News
 
-- 07/2025: I am going to give a presentation at the [MLCAS](https://2025.mlcas.site/) academic conference
+- 07/2025: I am going to give a presentation at the [MLCAS](https://2025.mlcas.site/) academic conference in August.
 
 - 05/2025: I was selected to receive funding from [Self-Directed and Integrated Project Research](https://spring-gx-appl.adm.s.u-tokyo.ac.jp/en/members-only.html).
 
