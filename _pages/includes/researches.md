@@ -1,22 +1,31 @@
 # 🛠️ Current Research - Digital Twin and Virtual Reality for Orchard Robotics
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-sensor<br />Fusion</div><img src='images/RoboticDemoForOrchards.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+The primary objective of this research is to develop a highly integrated autonomous field robot system capable of precision pruning in smart orchards, including machine vision system development, automatic navigation system development, and end-effector control system development.
+Ultimately, we aim to achieve [Embodied AI](https://lamarr-institute.org/blog/embodied-ai-explained/) systems based on end-to-end [Vision-Language-Action](https://en.wikipedia.org/wiki/Vision-language-action_model) models.
+At the beginning, we focus on constructing simulation environments for the training and testing of robots through [Digital Twin](https://www.ibm.com/think/topics/what-is-a-digital-twin) and [Virtual Reality](https://en.wikipedia.org/wiki/Virtual_reality), designing a 3D [World Foundation Model](https://www.nvidia.com/en-us/glossary/world-models/) for orchards, and providing a systematic and comprehensive benchmark dataset for the field of agricultural engineering.
+</div>
+</div>
+
+
+
+<!-- 
 The primary objective of this research is to develop a highly integrated autonomous field robot system capable of precision pruning in smart orchards, including machine vision system development, automatic navigation system development, and end-effector control system development.
 
 Ultimately, we aim to achieve [Embodied AI](https://lamarr-institute.org/blog/embodied-ai-explained/) systems based on end-to-end [Vision-Language-Action](https://en.wikipedia.org/wiki/Vision-language-action_model) models.
 
-At the beginning, we focus on constructing simulation environments for the training and testing of robots through [Digital Twin](https://www.ibm.com/think/topics/what-is-a-digital-twin) and [Virtual Reality](https://en.wikipedia.org/wiki/Virtual_reality), designing a 3D [World Foundation Model](https://www.nvidia.com/en-us/glossary/world-models/) for orchards, and providing a systematic and comprehensive benchmark dataset for the field of agricultural engineering.
+At the beginning, we focus on constructing simulation environments for the training and testing of robots through [Digital Twin](https://www.ibm.com/think/topics/what-is-a-digital-twin) and [Virtual Reality](https://en.wikipedia.org/wiki/Virtual_reality), designing a 3D [World Foundation Model](https://www.nvidia.com/en-us/glossary/world-models/) for orchards, and providing a systematic and comprehensive benchmark dataset for the field of agricultural engineering. -->
 
 Supervisor: 
-- Associate Prof. [Wei GUO](https://scholar.google.com/citations?user=pnMyJLEAAAAJ)
+- Tenured Associate Professor [Wei GUO](https://lab.fieldphenomics.com/)
+- Project Assistant Professor [James BURRIDGE](https://lab.fieldphenomics.com/)
 
 Related Support:
-
-- [Unitree Go2](https://www.unitree.com/go2) Intelligent Bionic Quadruped Robot
+<!-- - [Unitree Go2](https://www.unitree.com/go2) Intelligent Bionic Quadruped Robot -->
 - [Kubota KATR](https://www.kubota.com/kubotastories/ces-katr/index.html) All-terrain Platform Vehicle
-
 - [FJD TRION™ P1](https://www.fjdynamics.com/product/fjd-trion-p1-lidar-scanner) LiDAR Scanner
 - [XGRIDS LixelKity K1](https://xgrids.com/lixelk1) Compact Handheld 3D Scanner
-
 - Various farmlands, orchards and greenhouses located at the [Institute for Sustainable Agro-ecosystem Services](https://www.isas.a.u-tokyo.ac.jp/en/)
 
 <!-- - [机械臂名称]() -->
@@ -32,8 +41,8 @@ This work focuses on <u>object detection and tracking</u> based on multi-sensor 
 In addition, I participated in the development of <u>multi-agent collaborative system</u> as a main member. In this project, I am responsible for <u>path planning and task allocation algorithms</u> in the harvesting-unloading-transportation process of wheat production. According to constraints of plot location, task number, operation time window, and path planning, intelligent scheduling model was established based on <u>non-dominated sorting genetic and colony algorithms</u>.
 
 Supervisor: 
-- Prof. [Man Zhang](https://www.scopus.com/authid/detail.uri?authorId=56294527200)
-- Associate Prof. [Han Li](https://scholar.google.com/citations?user=vaIc89AAAAAJ)
+- Professor [Man ZHANG](https://www.x-mol.com/groups/zhang_man)
+- Associate Professor [Han LI](https://faculty.cau.edu.cn/lh_7561/)
 
  <!-- Dean of the College of Information and Electrical Engineering, Chair of International Conference on Smart Agriculture Innovation Development (ICSAID 2024), Chief Editor of International Federation for Automatic Control (IFAC 2018) -->
 

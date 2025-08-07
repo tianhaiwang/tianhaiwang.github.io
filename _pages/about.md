@@ -23,6 +23,9 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 {% include_relative includes/pub.md %}
 
+<span class='anchor' id='-presentations'></span>
+{% include_relative includes/presentations.md %}
+
 <span class='anchor' id='-funding'></span>
 {% include_relative includes/funding.md %}
 
