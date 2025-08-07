@@ -1,6 +1,6 @@
 # 🛠️ Current Research - Digital Twin and Virtual Reality for Orchard Robotics
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-sensor<br />Fusion</div><img src='images/RoboticDemoForOrchards.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/RoboticDemoForOrchards.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 The primary objective of this research is to develop a highly integrated autonomous field robot system capable of precision pruning in smart orchards, including machine vision system development, automatic navigation system development, and end-effector control system development.
 Ultimately, we aim to achieve [Embodied AI](https://lamarr-institute.org/blog/embodied-ai-explained/) systems based on end-to-end [Vision-Language-Action](https://en.wikipedia.org/wiki/Vision-language-action_model) models.
