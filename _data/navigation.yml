@@ -15,6 +15,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Presentations"
+    url: "/#-presentations"
+
   - title: "Funding"
     url: "/#-funding"
 

@@ -1,4 +1,4 @@
-# 🧾 Funding
+# 💬 Presentations
 
 - **Tianhai Wang** (Presenter), Haozhou Wang, James Burridge, Wei Guo\*. An Unsupervised 3D Point Cloud Segmentation Method and Tool for Artificial Objects and Trees in Dense Orchards. Seventh International Workshop on Machine Learning for Cyber-Agricultural Systems ([MLCAS2025](https://2025.mlcas.site/)). Tokyo. August 2025. (Oral Presentation)
 
