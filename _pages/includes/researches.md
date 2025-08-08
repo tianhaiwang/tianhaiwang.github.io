@@ -21,7 +21,7 @@ At the beginning, we focus on constructing simulation environments for the train
 
 Supervisor: 
 - Tenured Associate Professor [Wei GUO](https://lab.fieldphenomics.com/)
-- Project Assistant Professor [James BURRIDGE](https://lab.fieldphenomics.com/)
+- Assistant Professor [James BURRIDGE](https://lab.fieldphenomics.com/)
 
 Related Support:
 <!-- - [Unitree Go2](https://www.unitree.com/go2) Intelligent Bionic Quadruped Robot -->
