@@ -16,7 +16,7 @@
 
     **Tianhai Wang**, Ning Wang, Shunda Li, Zhiwen Jin, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
     
-    [Engineering](https://www.sciencedirect.com/journal/engineering), Accepted in 2026 (SCI, IF<sub>2024-2025</sub>=11.6, [Flagship Journal of Chinese Academy of Engineering (CAE)](https://en.cae.cn/cae/html/en/col2003/2022-10/11/20221011104322895352930_1.html), [CAA-A](https://www.caa.org.cn/article/290/3225.html))
+    Engineering, Accepted in 2026 (SCI, IF<sub>2024-2025</sub>=11.6, [Flagship Journal of CAE](https://en.cae.cn/cae/html/en/col2003/2022-10/11/20221011104322895352930_1.html), [CAA-A](https://www.caa.org.cn/article/290/3225.html))
 
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_multimodal-det.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
