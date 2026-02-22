@@ -4,7 +4,7 @@
 
 - 05/2025: I was selected to receive funding from [Self-Directed and Integrated Project Research](https://spring-gx-appl.adm.s.u-tokyo.ac.jp/en/members-only.html).
 
-- 04/2025: I have joined [Laboratory of Field Phenomics](https://lab.fieldphenomics.com/) at The University of Tokyo as a Ph.D. student.
+<!-- - 04/2025: I have joined [Laboratory of Field Phenomics](https://lab.fieldphenomics.com/) at The University of Tokyo as a Ph.D. student. -->
 
 - 03/2025: My [Google Scholar](https://scholar.google.com/citations?hl=en&user=WmxsGtwAAAAJ) citations have exceeded 1000.
 
