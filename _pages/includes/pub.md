@@ -12,7 +12,17 @@
     </div>
     </div> -->
 
+- **Multimodal Feature Representation Mechanism for 3D Detection of Agricultural Obstacles with Few or Zero Samples** [Accepted]
 
+    **Tianhai Wang**, Ning Wang, Shunda Li, Zhiwen Jin, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
+    
+    [Engineering](https://www.sciencedirect.com/journal/engineering), Accepted in 2026 (SCI, IF<sub>2024-2025</sub>=11.6, [Flagship Journal of Chinese Academy of Engineering (CAE)](https://en.cae.cn/cae/html/en/col2003/2022-10/11/20221011104322895352930_1.html), [CAA-A](https://www.caa.org.cn/article/290/3225.html))
+
+    <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_multimodal-det.jpg' alt="sym" width="100%"></div></div>
+    <div class='paper-box-text' markdown="1">
+    To address the critical challenge of scarce labeled data in autonomous agricultural navigation, we proposed a 3D obstacle detection framework based on multimodal feature representation mechanism. Our method reduces the dependency on training samples by 30%-40% while achieving a good performance in multi-category field scenarios. Especially, it maintains a robust performance in zero-shot scenarios. This work achieves a sophisticated trade-off among detection performance, operational efficiency, and data dependency.
+    </div>
+    </div>
 
 - **One-shot domain adaptive real-time 3D obstacle detection in farmland based on semantic-geometry-intensity fusion strategy** [[Available online](https://www.sciencedirect.com/science/article/pii/S016816992300652X)]
 
@@ -36,7 +46,7 @@
 
     <!-- Journal of Field Robotics, 2023 (SCI, ESI Top 10%, JCR Q2, **5-Year Impact Factor: 7.2**, [Special Report](https://mp.weixin.qq.com/s/tF2o19_KzcmQpVHueIEF5Q) by WeChat Public Platform)  -->
 
-    Journal of Field Robotics, 2023 (SCI, IF<sub>2022-2023</sub>=8.3, [Special Report](https://mp.weixin.qq.com/s/tF2o19_KzcmQpVHueIEF5Q) by WeChat Public Platform) 
+    Journal of Field Robotics, 2023 (SCI, IF<sub>2022-2023</sub>=8.3, [CAA-A](https://www.caa.org.cn/article/290/3225.html), [Special Report](https://mp.weixin.qq.com/s/tF2o19_KzcmQpVHueIEF5Q) by WeChat Public Platform) 
 
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_zeroshot.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
