@@ -24,7 +24,7 @@ Supervisor:
 - Assistant Professor [James BURRIDGE](https://lab.fieldphenomics.com/)
 
 Related Support:
-<!-- - [Unitree Go2](https://www.unitree.com/go2) Intelligent Bionic Quadruped Robot -->
+- [Unitree Go2](https://www.unitree.com/go2) Intelligent Bionic Quadruped Robot
 - [Kubota KATR](https://www.kubota.com/kubotastories/ces-katr/index.html) All-terrain Platform Vehicle
 - [FJD TRION™ P1](https://www.fjdynamics.com/product/fjd-trion-p1-lidar-scanner) LiDAR Scanner
 - [XGRIDS LixelKity K1](https://xgrids.com/lixelk1) Compact Handheld 3D Scanner
