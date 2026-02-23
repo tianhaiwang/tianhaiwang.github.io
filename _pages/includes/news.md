@@ -6,7 +6,7 @@
 
 - 05/2025: I was selected to receive funding from [Self-Directed and Integrated Project Research](https://spring-gx-appl.adm.s.u-tokyo.ac.jp/en/members-only.html).
 
-- 03/2025: My [Google Scholar](https://scholar.google.com/citations?hl=en&user=WmxsGtwAAAAJ) citations have exceeded 1000.
+- 03/2025: My [Google Scholar](https://scholar.google.com/citations?hl=en&user=WmxsGtwAAAAJ) and [Elsevier Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211135661) citations have exceeded 1000.
 
 - 03/2025: I was selected to receive funding from [SPRING GX](https://spring-gx.adm.s.u-tokyo.ac.jp/en/) Project.
 
