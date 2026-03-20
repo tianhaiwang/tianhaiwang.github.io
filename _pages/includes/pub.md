@@ -12,11 +12,11 @@
     </div>
     </div> -->
 
-- **Multimodal Feature Representation Mechanism for 3D Detection of Agricultural Obstacles with Few or Zero Samples** [Accepted]
+- **Multimodal Feature Representation Mechanism for 3D Detection of Agricultural Obstacles with Few or Zero Samples** [[Available online](https://www.sciencedirect.com/science/article/pii/S2095809926001657)]
 
     **Tianhai Wang**, Ning Wang, Shunda Li, Zhiwen Jin, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
     
-    Engineering, Accepted in 2026 (SCI, IF<sub>2024-2025</sub>=11.6, [Flagship Journal of CAE](https://en.cae.cn/cae/html/en/col2003/2022-10/11/20221011104322895352930_1.html), [CAA-A](https://www.caa.org.cn/article/290/3225.html))
+    Engineering, 2026 (SCI, IF<sub>2024-2025</sub>=11.6, [Flagship Journal of CAE](https://en.cae.cn/cae/html/en/col2003/2022-10/11/20221011104322895352930_1.html), [CAA-A](https://www.caa.org.cn/article/290/3225.html))
 
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_multimodal-det.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
