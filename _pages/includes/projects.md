@@ -1,4 +1,4 @@
-# 🛠️ Current Research - Digital Twin and Virtual Reality for Orchard Robotics
+# 🛠️ Current Projects - Digital Twin and Virtual Reality for Orchard Robotics
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/RoboticDemoForOrchards.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -32,7 +32,7 @@ Related Support:
 
 <!-- - [机械臂名称]() -->
 
-# ✅ Completed Researches
+# ✅ Completed Projects
 
 <!-- # 🛠️ Current Project -->
 
