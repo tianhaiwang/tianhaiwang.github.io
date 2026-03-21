@@ -2,8 +2,8 @@
 <!-- - Master of Engineering in Agricultural Electrification and Automation, China Agricultural University, 09/2021-06/2024
 - Bachelor of Engineering in Mechanical and Electronic Engineering, Guangxi University, 09/2017-06/2021 -->
 
-- Ph.D., The University of Tokyo, 04/2025-present
+- Ph.D., The University of Tokyo, 04/2025 – present
 
-- M.Eng., China Agricultural University, 09/2021-06/2024
+- M.Eng., China Agricultural University, 09/2021 – 06/2024
 
-- B.Eng., Guangxi University, 09/2017-06/2021
+- B.Eng., Guangxi University, 09/2017 – 06/2021
