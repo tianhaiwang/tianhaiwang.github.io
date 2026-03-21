@@ -1,13 +1,12 @@
 # 😃 About Me
 
-I am currently a Ph.D. student at the [Laboratory of Field Phenomics](https://lab.fieldphenomics.com/) at The University of Tokyo, fully funded by the JST SPRING Program (UTokyo SPRING GX Project). My current research focuses on developing highly integrated autonomous field robots for smart orchards, with a particular emphasis on **Digital Twin** technologies and **Sim2Real transfer**. 
+I am currently a Ph.D. student at the [Laboratory of Field Phenomics](https://lab.fieldphenomics.com/) at The University of Tokyo, fully funded by the JST SPRING Program (UTokyo SPRING GX Project). My current research focuses on developing highly integrated autonomous field robots for smart orchards, with a particular emphasis on Digital Twin technologies and Sim2Real transfer.
 
-Prior to joining UTokyo, I obtained my M.Eng. degree from [China Agricultural University](http://en.cau.edu.cn/), where I worked on automatic perception and navigation for agricultural robots, exploring zero-shot learning and LiDAR-camera panoramic fusion. I received my B.Eng. degree from [Guangxi University](https://english.gxu.edu.cn/) in 2021.  
+Prior to joining UTokyo, I obtained my M.Eng. degree from [China Agricultural University](http://en.cau.edu.cn/), where I worked on automatic perception and navigation for agricultural robots, exploring zero-shot learning and LiDAR-camera panoramic fusion. I received my B.Eng. degree from [Guangxi University](https://english.gxu.edu.cn/) in 2021.
 
-**Research Interests:** Field Robotics | Plant Phenotyping | Embodied AI in Agriculture | Smart Agriculture  
+**Research interest:** field robotics, plant phenotyping, and smart agriculture.
 
-
-Currently, I am a Ph.D. student at the [Laboratory of Field Phenomics](https://lab.fieldphenomics.com/) at The University of Tokyo. I obtained my M.Eng. degree from College of Information and Electrical Engineering, [China Agricultural University](http://en.cau.edu.cn/), where I work on automatic perception and navigation for agricultural robots, including object detection and tracking, zero-shot learning, LiDAR-camera panoramic fusion, etc. Before that, I obtained my B.Eng. degree from School of Mechanical Engineering, [Guangxi University](https://english.gxu.edu.cn/) in June, 2021.
+<!-- Currently, I am a Ph.D. student at the [Laboratory of Field Phenomics](https://lab.fieldphenomics.com/) at The University of Tokyo. I obtained my M.Eng. degree from College of Information and Electrical Engineering, [China Agricultural University](http://en.cau.edu.cn/), where I work on automatic perception and navigation for agricultural robots, including object detection and tracking, zero-shot learning, LiDAR-camera panoramic fusion, etc. Before that, I obtained my B.Eng. degree from School of Mechanical Engineering, [Guangxi University](https://english.gxu.edu.cn/) in June, 2021. -->
 
 <!-- If you are seeking any form of academic cooperation, please feel free to email me at [tianhai.wang@fieldphenomics.com](mailto:tianhai.wang@fieldphenomics.com). -->
 
