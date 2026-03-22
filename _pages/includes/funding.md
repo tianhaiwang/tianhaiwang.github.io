@@ -1,11 +1,11 @@
 # 🧾 Grants & Fellowships
 
 - **Development of Machine Vision System and Digital Twin Technology for Autonomous Pruning Robots in Orchards**  
-  *UTokyo SPRING GX Self-Directed and Integrated Research Grant*  
+  *UTokyo SPRING GX (JST SPRING) Self-Directed and Integrated Project Research Grant*  
   **Role:** Team Leader | **Amount:** JPY 1,000,000 | **Period:** 05/2025 – 03/2026 | **[Program Info](https://spring-gx-appl.adm.s.u-tokyo.ac.jp/en/members-only.html)**
 
 - **Development of Autonomous Field Robots for Precision Pruning in Smart Orchards Using 3D Point Cloud Analysis**  
-  *JST SPRING Program (UTokyo SPRING GX Project)*  
+  *UTokyo SPRING GX Project (JST SPRING Program)*  
   **Role:** Fellow | **Amount:** JPY 1,080,000 (Research Grant) + Full Ph.D. Stipend | **Period:** 04/2025 – 03/2028 | **[Program Info](https://spring-gx.adm.s.u-tokyo.ac.jp/en/)**
 
 - **Research on Monitoring Platform and Key Technologies of Mikania Micrantha based on Multi-Spectral Images**  

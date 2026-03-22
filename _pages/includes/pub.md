@@ -121,7 +121,7 @@
 
     <!-- Computers and Electronics in Agriculture, 2022 (SCI, ESI Top 10%, JCR Q1, **5-Year Impact Factor: 8.4**, **ESI Highly Cited Paper**, **Cited by 100+**, [Special Report](https://mp.weixin.qq.com/s/DPIPQeJ--QYhz0KPN9qubQ) by WeChat Public Platform) -->
 
-    Computers and Electronics in Agriculture, 2022 (SCI, IF<sub>2022-2023</sub>=8.3, **ESI Highly Cited Paper**, **Cited by 100+**, [Special Report](https://mp.weixin.qq.com/s/DPIPQeJ--QYhz0KPN9qubQ) by WeChat Public Platform)
+    Computers and Electronics in Agriculture, 2022 (SCI, IF<sub>2022-2023</sub>=8.3, **ESI Highly Cited Paper**, **Cited by 200+**, [Special Report](https://mp.weixin.qq.com/s/DPIPQeJ--QYhz0KPN9qubQ) by WeChat Public Platform)
 
 
 

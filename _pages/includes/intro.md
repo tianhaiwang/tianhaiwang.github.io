@@ -1,6 +1,6 @@
 # 😃 About Me
 
-I am currently a Ph.D. student at the [Laboratory of Field Phenomics](https://lab.fieldphenomics.com/) at The University of Tokyo, fully funded by the JST SPRING Program (UTokyo SPRING GX Project). My current research focuses on developing highly integrated autonomous field robots for smart orchards, with a particular emphasis on Digital Twin technologies and Sim2Real transfer.
+I am currently a Ph.D. student at the [Laboratory of Field Phenomics](https://lab.fieldphenomics.com/) at The University of Tokyo, fully funded by the UTokyo SPRING GX Project (JST SPRING Program). My current research focuses on developing highly integrated autonomous field robots for smart orchards, with a particular emphasis on Digital Twin technologies and Sim2Real transfer.
 
 Prior to joining UTokyo, I obtained my M.Eng. degree from [China Agricultural University](http://en.cau.edu.cn/), where I worked on automatic perception and navigation for agricultural robots, exploring zero-shot learning and LiDAR-camera panoramic fusion. I received my B.Eng. degree from [Guangxi University](https://english.gxu.edu.cn/) in 2021.
 
