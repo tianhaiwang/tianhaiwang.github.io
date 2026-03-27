@@ -16,7 +16,7 @@
 
     **Tianhai Wang**, Ning Wang, Shunda Li, Zhiwen Jin, Jianxing Xiao, Yanlong Miao, Yifan Sun, Han Li, Man Zhang\*
     
-    Engineering, 2026 (SCI, IF<sub>2024-2025</sub>=11.6, [Flagship Journal of CAE](https://en.cae.cn/cae/html/en/col2003/2022-10/11/20221011104322895352930_1.html), [CAA-A](https://www.caa.org.cn/article/290/3225.html))
+    Engineering, 2026 (SCI, IF<sub>2024-2025</sub>=11.6, [Flagship Journal of CAE](https://en.cae.cn/cae/html/en/col2003/2022-10/11/20221011104322895352930_1.html), [CAA-A+](https://www.caa.org.cn/article/192/5317.html))
 
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_multimodal-det.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
@@ -46,7 +46,7 @@
 
     <!-- Journal of Field Robotics, 2023 (SCI, ESI Top 10%, JCR Q2, **5-Year Impact Factor: 7.2**, [Special Report](https://mp.weixin.qq.com/s/tF2o19_KzcmQpVHueIEF5Q) by WeChat Public Platform)  -->
 
-    Journal of Field Robotics, 2023 (SCI, IF<sub>2022-2023</sub>=8.3, [CAA-A](https://www.caa.org.cn/article/290/3225.html), [Special Report](https://mp.weixin.qq.com/s/tF2o19_KzcmQpVHueIEF5Q) by WeChat Public Platform) 
+    Journal of Field Robotics, 2023 (SCI, IF<sub>2022-2023</sub>=8.3, [CAA-A](https://www.caa.org.cn/article/192/5317.html), [Special Report](https://mp.weixin.qq.com/s/tF2o19_KzcmQpVHueIEF5Q) by WeChat Public Platform) 
 
     <div class='paper-box'><div class='paper-box-image'><div><img src='images/architecture_zeroshot.jpg' alt="sym" width="100%"></div></div>
     <div class='paper-box-text' markdown="1">
